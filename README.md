@@ -1,0 +1,1 @@
+Simon Game using JavaScript (JQueryy) and HTML/CSS for frontend
